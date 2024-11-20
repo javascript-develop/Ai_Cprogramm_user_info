@@ -1,0 +1,55 @@
+E:\C#\IFace\UserInfo\obj\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\UserInfo\obj\Release\UserInfo.csproj.ResolveComReference.cache
+E:\C#\IFace\UserInfo\bin\Release\UserInfo.exe
+E:\C#\IFace\UserInfo\bin\Release\UserInfo.pdb
+E:\C#\IFace\UserInfo\bin\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\UserInfo\obj\Release\ResolveAssemblyReference.cache
+E:\C#\IFace\UserInfo\obj\Release\UserInfo.UserInfoMain.resources
+E:\C#\IFace\UserInfo\obj\Release\UserInfo.Properties.Resources.resources
+E:\C#\IFace\UserInfo\obj\Release\UserInfo.csproj.GenerateResource.Cache
+E:\C#\IFace\UserInfo\obj\Release\UserInfo.exe
+E:\C#\IFace\UserInfo\obj\Release\UserInfo.pdb
+D:\C#\IFace\UserInfo\obj\Release\Interop.zkemkeeper.dll
+D:\C#\IFace\UserInfo\obj\Release\UserInfo.csproj.ResolveComReference.cache
+D:\C#\IFace\UserInfo\obj\Release\UserInfo.exe
+D:\C#\IFace\UserInfo\obj\Release\UserInfo.pdb
+D:\C#\IFace\UserInfo\bin\Release\UserInfo.exe
+D:\C#\IFace\UserInfo\bin\Release\UserInfo.pdb
+D:\C#\IFace\UserInfo\bin\Release\Interop.zkemkeeper.dll
+D:\C#\IFace\UserInfo\obj\Release\ResolveAssemblyReference.cache
+D:\C#\IFace\UserInfo\obj\Release\UserInfo.UserInfoMain.resources
+D:\C#\IFace\UserInfo\obj\Release\UserInfo.Properties.Resources.resources
+D:\C#\IFace\UserInfo\obj\Release\UserInfo.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\bin\Release\UserInfo.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\bin\Release\UserInfo.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\bin\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\obj\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.UserInfoMain.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.Properties.Resources.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.pdb
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\obj\Release\Interop.zkemkeeper.dll
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.csproj.ResolveComReference.cache
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.exe
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.pdb
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\bin\Release\UserInfo.exe
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\bin\Release\UserInfo.pdb
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\bin\Release\Interop.zkemkeeper.dll
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.csprojResolveAssemblyReference.cache
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.UserInfoMain.resources
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.Properties.Resources.resources
+F:\SOFTWARE\ZK Software\SDK\Communication Protocol SDK(32Bit Ver6.2.4.11)\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\IFace\UserInfo\obj\Release\UserInfo.csproj.GenerateResource.Cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.csprojResolveAssemblyReference.cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.csproj.ResolveComReference.cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.UserInfoMain.resources
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.Properties.Resources.resources
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.csproj.GenerateResource.Cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\bin\Release\UserInfo.exe
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\bin\Release\UserInfo.pdb
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\bin\Release\Interop.zkemkeeper.dll
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\Interop.zkemkeeper.dll
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.exe
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.pdb

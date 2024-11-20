@@ -1,0 +1,22 @@
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\bin\Release\UserInfo.exe
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\bin\Release\UserInfo.pdb
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\bin\Release\Interop.zkemkeeper.dll
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\Interop.zkemkeeper.dll
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\AIUserInfo.csproj.ResolveComReference.cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.UserInfoMain.resources
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.Properties.Resources.resources
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\AIUserInfo.csproj.GenerateResource.Cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.exe
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\UserInfo.pdb
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo\obj\Release\AIUserInfo.csprojResolveAssemblyReference.cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\obj\Release\Interop.zkemkeeper.dll
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\obj\Release\AIUserInfo.csproj.ResolveComReference.cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\obj\Release\UserInfo.exe
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\obj\Release\UserInfo.pdb
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\obj\Release\AIUserInfo.csprojResolveAssemblyReference.cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\obj\Release\UserInfo.UserInfoMain.resources
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\obj\Release\UserInfo.Properties.Resources.resources
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\obj\Release\AIUserInfo.csproj.GenerateResource.Cache
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\bin\Release\UserInfo.exe
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\bin\Release\UserInfo.pdb
+C:\Users\sharma\Desktop\myface test\AI Device UserInfo - Copy\bin\Release\Interop.zkemkeeper.dll
